@@ -1,0 +1,24 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Generated PDF reports
+reports/generated/
+
+# IDE settings
+.vscode/
